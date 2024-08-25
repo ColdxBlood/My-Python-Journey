@@ -1,2 +1,2 @@
-# My-Python-Jurney
+# My-Python-Journey
 From Zero to Hero
